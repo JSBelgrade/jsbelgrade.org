@@ -1,0 +1,17 @@
+{
+  "name": "JSBelgrade.org",
+  "version": "1.0.0",
+  "description": "JSBelgrade website.",
+  "main": "index.js",
+  "dependencies": {
+    "ghost": "^0.5.7",
+    "pg": "latest",
+    "newrelic": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
