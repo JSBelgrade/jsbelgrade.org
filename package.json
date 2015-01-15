@@ -4,7 +4,7 @@
   "description": "JSBelgrade website.",
   "main": "index.js",
   "dependencies": {
-    "ghost": "^0.5.7",
+    "ghost": "^0.5.8",
     "pg": "latest",
     "newrelic": "latest"
   },
