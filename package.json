@@ -4,12 +4,12 @@
   "description": "JSBelgrade website.",
   "main": "index.js",
   "dependencies": {
-    "ghost": "^0.5.8",
+    "ghost": "0.5.8",
     "pg": "latest",
     "newrelic": "latest"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.10.35"
   },
   "repository": {
     "type": "git",
