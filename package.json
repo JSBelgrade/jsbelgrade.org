@@ -9,7 +9,7 @@
     "newrelic": "latest"
   },
   "engines": {
-    "iojs": "1.0.0"
+    "node": "0.10.x"
   },
   "repository": {
     "type": "git",
