@@ -14,7 +14,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/JSBelgrade/jsbelgrade.org.git"
-  }
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
