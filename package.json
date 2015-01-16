@@ -9,8 +9,12 @@
     "newrelic": "latest"
   },
   "engines": {
-    "iojs": "1.0.x"
+    "iojs": "1.0.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JSBelgrade/jsbelgrade.org.git"
+  }
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
