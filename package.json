@@ -1,6 +1,6 @@
 {
   "name": "JSBelgrade.org",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSBelgrade website.",
   "main": "index.js",
   "dependencies": {
@@ -9,7 +9,7 @@
     "newrelic": "latest"
   },
   "engines": {
-    "iojs": "1.0.2"
+    "iojs": "1.0.0"
   },
   "repository": {
     "type": "git",
